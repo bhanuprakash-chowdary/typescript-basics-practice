@@ -24,21 +24,17 @@ Copy code
 ### 1️⃣ Compile TypeScript
 ```bash
 npx tsc
-2️⃣ Run the compiled JS
+
+Run the compiled JS
 bash
 Copy code
 node dist/index.js
-📘 Topics Covered
+📘 ## Topics Covered
 Variables & Type Annotations
-
 Arrays, Tuples, and Enums
-
 Type Aliases & Interfaces
-
 Classes and Inheritance
-
 Generics
-
 Union & Any Types
 
 Type Assertions
