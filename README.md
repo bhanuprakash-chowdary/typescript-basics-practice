@@ -24,6 +24,7 @@ npx tsc
 
 Run the compiled JS
 node dist/index.js
+```
 
 
 📘 Topics Covered
